@@ -1,0 +1,1 @@
+A drive  is configured to provide power to a load  The drive  includes a control unit  including a controller  and a driver  located on a first substrate  a power unit  including at least one inverter module  located on a second substrate  and an interconnect  coupling the control unit  and the power unit

@@ -1,0 +1,1 @@
+ USB Methods and systems are provided for controlling operation of a stabilizer bar of a vehicle In one example a stabilizer bar includes two shafts joined together by a gasactuated decoupler The decoupler may be actuated in order to enable each of the shafts to twist relative to each other

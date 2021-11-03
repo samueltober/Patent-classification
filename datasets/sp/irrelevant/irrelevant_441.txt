@@ -1,0 +1,1 @@
+ USB Methods and systems are provided for diagnosing a shock absorber coupled to a vehicle tire In one example a sensor of a tire pressure measurement system coupled inside a tire is used to measure a tire pressure as well as an oscillatory behavior of the tire A state of health of a shock absorber coupled to the tire is estimated based on the oscillatory behavior

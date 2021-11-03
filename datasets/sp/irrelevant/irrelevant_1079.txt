@@ -1,0 +1,1 @@
+ WOA System and method for improving braking efficiency by increasing the magnitude of a frictional force between a tire of a vehicle wheel and a road surface Braking efficiency may be improved by controlling the normal force applied on the wheel with an active suspension actuator based on the wheels slip ratio

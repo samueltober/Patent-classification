@@ -1,0 +1,1 @@
+ USA A springabsorber system for a wheel suspension of a motor vehicle includes a suspension spring with a spring constant kT and an absorber filled with a fluid and mounted in parallel to the suspension spring The springabsorber system also includes at least two additional spring modules via which a total spring constant kG of the springabsorber system can be varied

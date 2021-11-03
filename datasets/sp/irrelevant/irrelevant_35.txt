@@ -1,0 +1,1 @@
+ WOA A vehicle comprises a vehicle body and a suspension including a sensor for detecting vehicle load The sensor is provided with an optical fibre which is deformable upon varying the vehicle load so as to influence light transmission property of the optical fibre

@@ -1,0 +1,1 @@
+A voltage sourced converter for converting power from DC to AC features a chain of power electronic modules in between which each AC connection of the converter is made so as to form a series string or arm of the modules on at least one side of that connection to the chain which are controlled so as to produce at this connection an AC voltage waveform

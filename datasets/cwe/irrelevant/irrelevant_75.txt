@@ -1,0 +1,1 @@
+ USA A wheel end temperature monitoring system includes a wheel end temperature sensor configured to detect the temperature of a hub bearing of a wheel of a trailer and a main unit configured to receive a signal of the wheel end temperature sensor and transmit the received signal to the outside

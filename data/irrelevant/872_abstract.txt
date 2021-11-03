@@ -1,0 +1,1 @@
+Disclosed is an interleaved buckboost converter The interleaved buckboost converter includes a master switching stage and a slave switching stage that are controlled by a pulsewidthmodulation PWM controller

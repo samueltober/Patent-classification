@@ -1,0 +1,1 @@
+A plugin converter unit  having a modular structure for the switchboard  of the control technology power supply system  of a nuclear power plant is described and the plugin converter unit  is a frame  It contains  at least one busbar  a group of fuses  and a group of load terminals  In addition a control technology power supply system  for nuclear power plants is described

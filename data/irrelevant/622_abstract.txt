@@ -1,0 +1,1 @@
+A hybrid switched capacitor power converter for highpower applications is provided The converter has a transistorswitched inputstage boost converter followed by a capacitoranddiode ladder circuit The converter is adapted to produce an output voltage of at least  kV at a power level of at least  kW The ladder circuit includes one or more multistage rails

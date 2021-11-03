@@ -1,0 +1,1 @@
+The present application provides a device for distributing power from a power source to a set of power outputs using a power distribution rack The device includes a manifold that includes a set of busbars in a wall and connects the power source To a set of electronic cards where the electronic card delivers power from the power source to the power output

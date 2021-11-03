@@ -1,0 +1,1 @@
+ USA A suspension system for use in vehicles includes a heave spring and an antiroll bar The system architecture allows for the ride spring rate and the wheel spring rates to be decoupled such that each can be independently tuned Furthermore the suspension system may be fully active quasifully active semiactive or passive

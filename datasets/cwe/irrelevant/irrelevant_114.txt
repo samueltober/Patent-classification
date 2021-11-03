@@ -1,0 +1,1 @@
+ WOA A hubintegrated inflation system which functions to convert relative motion at the wheel end eg between the axle and the hub or wheel into a pumping motion The relative motion is then converted into mechanical or electrical energy which can be used to actuate a pump of an inflator

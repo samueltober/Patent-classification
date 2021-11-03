@@ -1,0 +1,1 @@
+ USB A system includes a receiver coil configured to be magnetically coupled to a transmitter coil a rectifier connected to a voltage bus through a switch a first power converter and a second power converter connected in cascade between the switch and a battery and a load switch connected between the voltage bus and a power port configured to be connected to a power source

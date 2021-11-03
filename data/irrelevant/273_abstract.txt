@@ -1,0 +1,1 @@
+During its first and second residence times corresponding first and second currents flow between a charge pump and a circuit that connects to one of the charge pumps terminals Based on a feedback measurement from the charge pump a controller adjusts these first and second currents

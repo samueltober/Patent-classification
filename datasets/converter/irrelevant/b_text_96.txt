@@ -1,0 +1,1 @@
+ USB A distributed converter for delivering power to a set of loads is provided The distributed converter includes a converter battery distribution unit that includes a convertermodular power tile and the convertermodular power tile includes a battery pack configured to deliver power to a load of the set of loads

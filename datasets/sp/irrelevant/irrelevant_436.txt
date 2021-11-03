@@ -1,0 +1,1 @@
+ WOA A system  for controlling the stability of a vehicle  equipped with semiactive dampers  comprises an actuator  a plurality of sensors C D a lowlevel control unit L a highlevel control unit H and a midlevel control unit M adapted to execute an algorithm A for calculating a damping level C ref 

@@ -1,0 +1,16 @@
+clang==5.0
+Cython==0.29.24
+numpy==1.19.5
+pandas==1.1.5
+tensorflow==2.6.0
+tensorflow-cloud==0.1.16
+tensorflow-datasets==4.4.0
+tensorflow-estimator==2.6.0
+tensorflow-hub==0.12.0
+tensorflow-metadata==0.14.0
+tensorflow-model-optimization==0.6.0
+tensorflow-transform==0.14.0
+tf-models-official==2.6.0
+tf-slim==1.1.0
+tfds-nightly==4.4.0.dev202109240107
+tqdm==4.62.3

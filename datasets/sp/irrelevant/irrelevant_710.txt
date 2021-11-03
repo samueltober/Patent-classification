@@ -1,0 +1,1 @@
+ USB An assembly includes a leadscrew a strut and a motor The strut is movable along the leadscrew upon rotation of the leadscrew A camber angle of a wheel is changeable according to movement of the strut along the leadscrew The motor is drivably connected to a rotating shaft that is mounted to the leadscrew

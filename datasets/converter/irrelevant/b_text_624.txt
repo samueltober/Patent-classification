@@ -1,0 +1,1 @@
+ CNB The invention discloses a cascaded power electronic transformer and a control method thereof wherein power balance among different primary side windings is realized The method comprises the steps ofcalculating 

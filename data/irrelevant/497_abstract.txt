@@ -1,0 +1,1 @@
+A multiinput charging system and method using a motor driving system can prevent relay fusing or cutting in a motor and damage of a neutral point capacitor provided in a charging power input stage ina process of receiving external charging power through a neutral point of the motor and charging a battery
